@@ -1,7 +1,9 @@
 * {
-  box-sizing: border-box; }
+  box-sizing: border-box;
+}
 
-html, body {
+html,
+body {
   position: absolute;
   padding: 0;
   margin: 0;
@@ -11,7 +13,7 @@ html, body {
   background: #fcfcfc;
   color: #9d8189;
   font-family: 'Raleway', sans-serif;
-  font-weight : 100;
+  font-weight: 100;
   line-height: 1.5;
 }
 
@@ -24,7 +26,7 @@ main {
 }
 
 p {
-  font-weight : 300;
+  font-weight: 300;
   margin: 27px 0;
   line-height: 1.3;
   font-size: 1em;
@@ -38,11 +40,10 @@ i {
 
 ul {
   font-family: 'Raleway', sans-serif;
-  font-weight : 300;
+  font-weight: 300;
   font-size: 1em;
   text-transform: uppercase;
   padding: 0;
-  letter-spacing: 0.2em;
 }
 
 ul li {
@@ -58,14 +59,14 @@ a {
 }
 
 h1 {
-  font-weight : 100;
+  font-weight: 100;
   margin: 0px 0;
   line-height: 1;
   font-size: 4em;
 }
 
 h2 {
-  font-weight : 300;
+  font-weight: 300;
   margin: 0;
   line-height: 1;
   font-size: 1em;
@@ -90,54 +91,61 @@ h2 {
 }
 
 .row {
-    margin: 0 0;
+  margin: 0 0;
 }
 
 /* Add padding BETWEEN each column (if you want) */
+
 .row,
-.row > .column {
-    padding: 27px;
+.row>.column {
+  padding: 27px;
 }
 
 /* Create four equal columns that floats next to each other */
+
 .column {
-    float: left;
-    width: 33%;
+  float: left;
+  width: 33%;
 }
 
 /* Clear floats after rows */
+
 .row:after {
-    content: "";
-    display: table;
-    clear: both;
+  content: "";
+  display: table;
+  clear: both;
 }
 
 /* Content */
+
 .content {
-    text-align: center;
+  text-align: center;
 }
 
 /* Responsive layout - makes a two column-layout instead of four columns */
+
 @media screen and (max-width: 900px) {
-    .column {
-        width: 50%;
-    }
+  .column {
+    width: 50%;
+  }
 }
 
 /* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+
 @media screen and (max-width: 600px) {
-    .column {
-        width: 100%;
-    }
+  .column {
+    width: 100%;
+  }
 }
 
 /* Responsive layout - header size */
+
 @media screen and (max-width: 460px) {
-    h1 {
-        font-size: 2em;
-        font-weight: 300;
-    }
-    ul li {
+  h1 {
+    font-size: 2em;
+    font-weight: 300;
+  }
+  ul li {
     margin: 0 0;
-    }
+  }
 }
