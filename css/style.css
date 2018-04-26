@@ -4,25 +4,21 @@
 
 html,
 body {
-  position: absolute;
   padding: 0;
   margin: 0;
   width: 100%;
   height: 100%;
   overflow-y: visible;
-  background: #fcfcfc;
-  color: #9d8189;
+  background-color: #18121E;
+  color: #F7CAC9;
   font-family: 'Raleway', sans-serif;
   font-weight: 100;
   line-height: 1.5;
 }
 
-main {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
+canvas{
+  display:block;
+  vertical-align:bottom;
 }
 
 p {
@@ -72,6 +68,15 @@ h2 {
   font-size: 1em;
 }
 
+#particles-js{
+  width: 100%;
+  height: 100%;
+  background-image: url('');
+  background-size: cover;
+  background-position: 50% 50%;
+  background-repeat: no-repeat;
+}
+
 .text {
   position: absolute;
   top: 50%;
@@ -81,17 +86,12 @@ h2 {
   width: 89%;
 }
 
-.arrow {
-  position: absolute;
-  top: 27px;
-  left: 27px;
-  transform: translate(-50%, -50%);
-  font-size: 2em;
-  text-align: left;
-}
-
 .row {
-  margin: 0 0;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 0%);
+  text-align: center;
+  width: 89%;
 }
 
 /* Add padding BETWEEN each column (if you want) */
