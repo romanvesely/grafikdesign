@@ -1,15 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Lato:100,300,700');
 
-body {
-    background: linear-gradient(to right, #fbb, #fcb);
-    background-size: 200% 200%;
-}
-
-html {
-    color: #303030;
-
-    font-family: 'Lato', sans-serif;
-    font-variant-ligatures: none;
+* {
+    overflow-y: hidden;
+    padding: 0;
+    margin: 0;
 
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
@@ -22,6 +16,16 @@ html {
     /* IE10+/Edge */
     user-select: none;
     /* Standard */
+}
+
+html,
+body {
+    background: linear-gradient(50deg, #fbb, #fdb);
+    background-size: 100% 250%;
+    color: #303030;
+
+    font-family: 'Lato', sans-serif;
+    font-variant-ligatures: none;
 }
 
 a,
@@ -56,13 +60,13 @@ h3 {
     font-size: 1.6em;
     font-weight: 300;
     text-transform: uppercase;
-    margin-bottom: 0em;
 }
 
 #card {
-    margin-top: 60px;
-    max-width: 400px;
+    margin-top: 4em;
+    max-width: 24em;
 
+    padding: 1em;
     margin-left: auto;
     margin-right: auto;
     text-align: right;
