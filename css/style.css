@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=PT+Mono&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lora&display=swap');
 
 * {
 	box-sizing: border-box;
@@ -12,13 +12,13 @@
 }
 
 body {
-	background: #1f2421;
-	color: #dce1de;
+	background: #eeeeee;
+	color: #2e2e2e;
 	width: 100%;
 }
 
 .text {
-	font-family: 'PT Mono', monospace;
+	font-family: 'Lora', monospace;
 	font-size: 6vw;
 	font-variant-ligatures: none;
 	text-transform: lowercase;
@@ -30,7 +30,7 @@ body {
 	letter-spacing: inherit;
 	line-height: inherit;
 	opacity: 0;
-	padding: 2vw 2vw 1vw 2vw;
+	padding: 0vw 2vw 8vw 2vw;
 }
 
 .text a {
@@ -41,7 +41,7 @@ body {
 }
 
 .text a:hover {
-	color: #a9adab;
+	color: #555555;
 }
 
 @keyframes fadein {
