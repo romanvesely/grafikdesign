@@ -1,62 +1,47 @@
-@import url('https://fonts.googleapis.com/css?family=Muli:800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=PT+Mono&display=swap');
 
 * {
-	margin: 0;
-	padding: 0;
 	box-sizing: border-box;
-	font-size: 100%;
-	font-weight: inherit;
-	-webkit-user-select: none;
-	-webkit-touch-callout: none;
+	margin: 0;
 	-moz-user-select: none;
 	-ms-user-select: none;
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	padding: 0;
 	user-select: none;
 }
 
 body {
-	background: #fff;
-	color: #00a99d;
+	background: #1f2421;
+	color: #dce1de;
 	width: 100%;
 }
 
 .text {
-	font-family: 'Muli', sans-serif;
-	font-size: 5vw;
-	line-height: 6vw;
-	font-weight: bold;
+	font-family: 'PT Mono', monospace;
+	font-size: 6vw;
 	font-variant-ligatures: none;
+	text-transform: lowercase;
 }
 
-h1 {
+.text p,h1 {
+	animation: fadein 0.5s forwards ease-out;
 	font: inherit;
-	line-height: inherit;
 	letter-spacing: inherit;
-}
-
-.text p, h1 {
+	line-height: inherit;
 	opacity: 0;
-	animation: fadein .5s forwards ease-out;
-	padding: 2vw 4vw 3vw 3vw;
+	padding: 2vw 2vw 1vw 2vw;
 }
 
 .text a {
-	text-decoration: underline;
-	text-decoration-skip-ink: auto;
 	color: inherit;
-	padding-left: .5vw;
-	padding-right: .5vw;
-	margin-left: -.5vw;
-	margin-right: -.5vw;
+	line-height: inherit;
+	letter-spacing: inherit;
+	text-decoration-skip-ink: auto;
 }
 
 .text a:hover {
-	color: #A4F5ED;
-}
-
- ::selection {
-	text-decoration: none;
-	background: #000;
-	color: #fff;
+	color: #a9adab;
 }
 
 @keyframes fadein {
@@ -64,6 +49,7 @@ h1 {
 		opacity: 0;
 		margin-top: 2vw;
 	}
+
 	100% {
 		opacity: 1;
 		margin-top: 0;
