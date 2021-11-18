@@ -1,76 +1,76 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <contacts>
-	<contact name="_Büro Marco - Spinne" number="480"/>
-	<contact name="_Gruppe DS-Abteilung IN" number="*491320#"/>
-	<contact name="_Gruppe DS-Abteilung OUT" number="*490320#"/>
-	<contact name="_Gruppe SALES-Abteilung IN" number="*491300#"/>
-	<contact name="_Gruppe SALES-Abteilung IN" number="*490300#"/>
-	<contact name="_Gruppe SUP-Abteilung IN" number="*491112#"/>
-	<contact name="_Gruppe SUPPORT-Abteilung OUT" number="*490112#"/>
-	<contact name="_Konferenz Server extern" number="333"/>
-	<contact name="_Konferenz Server intern" number="334"/>
-	<contact name="Bodo Pasbrig" number="113"/>
-	<contact name="Bodo Pasbrig VOIP" number="6113"/>
-	<contact name="Darja Günther" number="228"/>
-	<contact name="Darja Günther VOIP" number="6228"/>
-	<contact name="Detlef Zach" number="114"/>
-	<contact name="Detlef Zach VOIP" number="6114"/>
-	<contact name="Fabian Pietzsch" number="304"/>
-	<contact name="Fabian Pietzsch VOIP" number="6304"/>
-	<contact name="Falk Laue" number="128"/>
-	<contact name="Falk Laue VOIP" number="6128"/>
-	<contact name="Frerik Precht" number="307"/>
-	<contact name="Frerik Precht VOIP" number="6307"/>
-	<contact name="Gabriele Grote" number="126"/>
-	<contact name="Gabriele Grote VOIP" number="6126"/>
-	<contact name="Gabriella Langen" number="136"/>
-	<contact name="Gabriella Langen VOIP" number="6136"/>
-	<contact name="Gesa Winter" number="135"/>
-	<contact name="Gesa Winter VOIP" number="6135"/>
-	<contact name="Jana Schwob" number="222"/>
-	<contact name="Jana Schwob VOIP" number="6222"/>
-	<contact name="Jenny Dohrmann" number="310"/>
-	<contact name="Jenny Dohrmann VOIP" number="6310"/>
-	<contact name="Jens Vergin" number="124"/>
-	<contact name="Jens Vergin VOIP" number="6124"/>
-	<contact name="Joschik Pech" number="116"/>
-	<contact name="Joschik Pech VOIP" number="6116"/>
-	<contact name="Katarina Sühlo" number="118"/>
-	<contact name="Katarina Sühlo VOIP" number="6118"/>
-	<contact name="Lisa Weiß" number="312"/>
-	<contact name="Lisa Weiß VOIP" number="6312"/>
-	<contact name="Louisa Lübbermann" number="133"/>
-	<contact name="Louisa Lübbermann VOIP" number="6133"/>
-	<contact name="Lukas Janßen" number="313"/>
-	<contact name="Lukas Janßen VOIP" number="6313"/>
-	<contact name="Magnus Sinn" number="122"/>
-	<contact name="Magnus Sinn VOIP" number="6122"/>
-	<contact name="Maike Lück" number="138"/>
-	<contact name="Maike Lück VOIP" number="6138"/>
-	<contact name="Manuela Muster" number="127"/>
-	<contact name="Manuela Muster VOIP" number="6127"/>
-	<contact name="Marco Eggebrecht" number="123"/>
-	<contact name="Marco Eggebrecht VOIP" number="6123"/>
-	<contact name="Marco Tessendorf" number="111"/>
-	<contact name="Marco Tessendorf VOIP" number="6111"/>
-	<contact name="Maria Ayoub" number="305"/>
-	<contact name="Maria Ayoub VOIP" number="6305"/>
-	<contact name="Noah Bunde" number="130"/>
-	<contact name="Noah Bunde VOIP" number="6130"/>
-	<contact name="Oliver Schäfer" number="121"/>
-	<contact name="Oliver Schäfer VOIP" number="6121"/>
-	<contact name="Ralf Tornow" number="123"/>
-	<contact name="Ralf Tornow VOIP" number="6123"/>
-	<contact name="Robert Pasbrig" number="119"/>
-	<contact name="Robert Pasbrig VOIP" number="6119"/>
-	<contact name="Roman Veselý" number="134"/>
-	<contact name="Roman Veselý VOIP" number="6134"/>
-	<contact name="Steven Trunz" number="139"/>
-	<contact name="Steven Trunz VOIP" number="6139"/>
-	<contact name="Susanne Thurm" number="129"/>
-	<contact name="Susanne Thurm VOIP" number="6129"/>
-	<contact name="Thomas Schulz" number="117"/>
-	<contact name="Thomas Schulz VOIP" number="6117"/>
-	<contact name="Tobias Köpke" number="121"/>
-	<contact name="Tobias Köpke VOIP" number="6121"/>
+	<contact name="_Büro Marco - Spinne" number="480" />
+	<contact name="_Gruppe DS-Abteilung IN" number="*491320#" />
+	<contact name="_Gruppe DS-Abteilung OUT" number="*490320#" />
+	<contact name="_Gruppe SALES-Abteilung IN" number="*491300#" />
+	<contact name="_Gruppe SALES-Abteilung IN" number="*490300#" />
+	<contact name="_Gruppe SUP-Abteilung IN" number="*491112#" />
+	<contact name="_Gruppe SUPPORT-Abteilung OUT" number="*490112#" />
+	<contact name="_Konferenz Server extern" number="333" />
+	<contact name="_Konferenz Server intern" number="334" />
+	<contact name="Bodo Pasbrig" number="113" />
+	<contact name="Bodo Pasbrig VOIP" number="6113" />
+	<contact name="Darja Günther" number="228" />
+	<contact name="Darja Günther VOIP" number="6228" />
+	<contact name="Detlef Zach" number="114" />
+	<contact name="Detlef Zach VOIP" number="6114" />
+	<contact name="Fabian Pietzsch" number="304" />
+	<contact name="Fabian Pietzsch VOIP" number="6304" />
+	<contact name="Falk Laue" number="128" />
+	<contact name="Falk Laue VOIP" number="6128" />
+	<contact name="Frerik Precht" number="307" />
+	<contact name="Frerik Precht VOIP" number="6307" />
+	<contact name="Gabriele Grote" number="126" />
+	<contact name="Gabriele Grote VOIP" number="6126" />
+	<contact name="Gabriella Langen" number="136" />
+	<contact name="Gabriella Langen VOIP" number="6136" />
+	<contact name="Gesa Winter" number="135" />
+	<contact name="Gesa Winter VOIP" number="6135" />
+	<contact name="Jana Schwob" number="222" />
+	<contact name="Jana Schwob VOIP" number="6222" />
+	<contact name="Jenny Dohrmann" number="310" />
+	<contact name="Jenny Dohrmann VOIP" number="6310" />
+	<contact name="Jens Vergin" number="124" />
+	<contact name="Jens Vergin VOIP" number="6124" />
+	<contact name="Joschik Pech" number="116" />
+	<contact name="Joschik Pech VOIP" number="6116" />
+	<contact name="Katarina Sühlo" number="118" />
+	<contact name="Katarina Sühlo VOIP" number="6118" />
+	<contact name="Lisa Weiß" number="312" />
+	<contact name="Lisa Weiß VOIP" number="6312" />
+	<contact name="Louisa Lübbermann" number="133" />
+	<contact name="Louisa Lübbermann VOIP" number="6133" />
+	<contact name="Lukas Janßen" number="313" />
+	<contact name="Lukas Janßen VOIP" number="6313" />
+	<contact name="Magnus Sinn" number="122" />
+	<contact name="Magnus Sinn VOIP" number="6122" />
+	<contact name="Maike Lück" number="138" />
+	<contact name="Maike Lück VOIP" number="6138" />
+	<contact name="Manuela Muster" number="127" />
+	<contact name="Manuela Muster VOIP" number="6127" />
+	<contact name="Marco Eggebrecht" number="123" />
+	<contact name="Marco Eggebrecht VOIP" number="6123" />
+	<contact name="Marco Tessendorf" number="111" />
+	<contact name="Marco Tessendorf VOIP" number="6111" />
+	<contact name="Maria Ayoub" number="305" />
+	<contact name="Maria Ayoub VOIP" number="6305" />
+	<contact name="Noah Bunde" number="130" />
+	<contact name="Noah Bunde VOIP" number="6130" />
+	<contact name="Oliver Schäfer" number="121" />
+	<contact name="Oliver Schäfer VOIP" number="6121" />
+	<contact name="Ralf Tornow" number="123" />
+	<contact name="Ralf Tornow VOIP" number="6123" />
+	<contact name="Robert Pasbrig" number="119" />
+	<contact name="Robert Pasbrig VOIP" number="6119" />
+	<contact name="Roman Veselý" number="134" />
+	<contact name="Roman Veselý VOIP" number="6134" />
+	<contact name="Steven Trunz" number="139" />
+	<contact name="Steven Trunz VOIP" number="6139" />
+	<contact name="Susanne Thurm" number="129" />
+	<contact name="Susanne Thurm VOIP" number="6129" />
+	<contact name="Thomas Schulz" number="117" />
+	<contact name="Thomas Schulz VOIP" number="6117" />
+	<contact name="Tobias Köpke" number="121" />
+	<contact name="Tobias Köpke VOIP" number="6121" />
 </contacts>
