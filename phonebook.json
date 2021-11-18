@@ -1,0 +1,39 @@
+{
+    "refresh": 1,
+    "items": [
+      {
+        "number": "113",
+        "name": "Bodo Pasbrig",
+        "firstname": "",
+        "lastname": "",
+        "phone": "",
+        "mobile": "",
+        "email": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "comment": "",
+        "presence": 0,
+        "starred": 0,
+        "info": ""
+      },
+      {
+        "number": "6113",
+        "name": "Bodo Pasbrig VoIP",
+        "firstname": "",
+        "lastname": "",
+        "phone": "",
+        "mobile": "",
+        "email": "",
+        "address": "",
+        "city": "",
+        "state": "",
+        "zip": "",
+        "comment": "",
+        "presence": 0,
+        "starred": 0,
+        "info": ""
+      }
+    ]
+  }
